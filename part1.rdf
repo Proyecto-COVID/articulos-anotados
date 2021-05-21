@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotationCollection>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.bioontology.org/ontology/SNOMEDCT/50833004</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F50833004" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/SNOMEDCT" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F50833004/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F50833004/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F50833004/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F50833004/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F50833004/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F50833004/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F50833004/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F50833004/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&amp;conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F50833004" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>2</from>
+        <to>6</to>
+        <matchType>PREF</matchType>
+        <text>PAPER</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.obolibrary.org/obo/NCIT_C25398</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25398" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/PREMEDONTO" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25398/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25398/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25398/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25398/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25398/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25398/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25398/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25398/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/PREMEDONTO?p=classes&amp;conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25398" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>61</from>
+        <to>68</to>
+        <matchType>PREF</matchType>
+        <text>CLINICAL</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.bioontology.org/ontology/SNOMEDCT/58147004</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58147004" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/SNOMEDCT" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58147004/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58147004/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58147004/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58147004/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58147004/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58147004/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58147004/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58147004/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&amp;conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58147004" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>61</from>
+        <to>68</to>
+        <matchType>PREF</matchType>
+        <text>CLINICAL</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.bioontology.org/ontology/SNOMEDCT/703725008</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F703725008" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/SNOMEDCT" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F703725008/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F703725008/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F703725008/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F703725008/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F703725008/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F703725008/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F703725008/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F703725008/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&amp;conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F703725008" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>82</from>
+        <to>88</to>
+        <matchType>PREF</matchType>
+        <text>CULTURE</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.bioontology.org/ontology/SNOMEDCT/61594008</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F61594008" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/SNOMEDCT" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F61594008/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F61594008/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F61594008/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F61594008/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F61594008/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F61594008/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F61594008/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F61594008/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&amp;conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F61594008" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>82</from>
+        <to>88</to>
+        <matchType>SYN</matchType>
+        <text>CULTURE</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.bioontology.org/ontology/SNOMEDCT/277025001</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F277025001" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/SNOMEDCT" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F277025001/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F277025001/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F277025001/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F277025001/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F277025001/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F277025001/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F277025001/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F277025001/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&amp;conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F277025001" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>90</from>
+        <to>95</to>
+        <matchType>PREF</matchType>
+        <text>PROVEN</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.bioontology.org/ontology/SNOMEDCT/58720004</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58720004" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/SNOMEDCT" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58720004/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58720004/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58720004/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58720004/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58720004/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58720004/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58720004/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58720004/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&amp;conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F58720004" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>97</from>
+        <to>117</to>
+        <matchType>PREF</matchType>
+        <text>MYCOPLASMA PNEUMONIAE</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.bioontology.org/ontology/SNOMEDCT/78981005</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F78981005" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/SNOMEDCT" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F78981005/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F78981005/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F78981005/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F78981005/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F78981005/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F78981005/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F78981005/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F78981005/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&amp;conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F78981005" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>97</from>
+        <to>106</to>
+        <matchType>SYN</matchType>
+        <text>MYCOPLASMA</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.bioontology.org/ontology/SNOMEDCT/224871002</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F224871002" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/SNOMEDCT" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F224871002/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F224871002/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F224871002/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F224871002/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F224871002/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F224871002/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F224871002/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F224871002/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&amp;conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F224871002" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>148</from>
+        <to>157</to>
+        <matchType>PREF</matchType>
+        <text>UNIVERSITY</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.obolibrary.org/obo/NCIT_C16696</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C16696" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/PREMEDONTO" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C16696/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C16696/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C16696/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C16696/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C16696/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C16696/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C16696/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C16696/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/PREMEDONTO?p=classes&amp;conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C16696" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>159</from>
+        <to>166</to>
+        <matchType>PREF</matchType>
+        <text>HOSPITAL</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.bioontology.org/ontology/SNOMEDCT/22232009</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F22232009" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/SNOMEDCT" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F22232009/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F22232009/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F22232009/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F22232009/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F22232009/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F22232009/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F22232009/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F22232009/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&amp;conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F22232009" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>159</from>
+        <to>166</to>
+        <matchType>PREF</matchType>
+        <text>HOSPITAL</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.bioontology.org/ontology/SNOMEDCT/223616007</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F223616007" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/SNOMEDCT" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F223616007/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F223616007/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F223616007/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F223616007/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F223616007/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F223616007/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F223616007/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F223616007/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&amp;conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F223616007" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>177</from>
+        <to>188</to>
+        <matchType>PREF</matchType>
+        <text>SAUDI ARABIA</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.obolibrary.org/obo/NCIT_C49106</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C49106" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/PREMEDONTO" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C49106/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C49106/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C49106/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C49106/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C49106/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C49106/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C49106/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C49106/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/PREMEDONTO?p=classes&amp;conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C49106" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>383</from>
+        <to>388</to>
+        <matchType>PREF</matchType>
+        <text>SUFFIX</text>
+      </annotations>
+      <annotations>
+        <from>668</from>
+        <to>673</to>
+        <matchType>PREF</matchType>
+        <text>SUFFIX</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.obolibrary.org/obo/NCIT_C25178</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25178" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/PREMEDONTO" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25178/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25178/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25178/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25178/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25178/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25178/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25178/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/PREMEDONTO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25178/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/PREMEDONTO?p=classes&amp;conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25178" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>430</from>
+        <to>435</to>
+        <matchType>PREF</matchType>
+        <text>HEALTH</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+  <annotation>
+    <annotatedClass>
+      <id>http://purl.bioontology.org/ontology/SNOMEDCT/263775005</id>
+      <type>http://www.w3.org/2002/07/owl#Class</type>
+      <linksCollection>
+        <links>
+          <self href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F263775005" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ontology href="https://data.bioontology.org/ontologies/SNOMEDCT" rel="http://data.bioontology.org/metadata/Ontology"/>
+        </links>
+        <links>
+          <children href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F263775005/children" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <parents href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F263775005/parents" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <descendants href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F263775005/descendants" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <ancestors href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F263775005/ancestors" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <instances href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F263775005/instances" rel="http://data.bioontology.org/metadata/Instance"/>
+        </links>
+        <links>
+          <tree href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F263775005/tree" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+        <links>
+          <notes href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F263775005/notes" rel="http://data.bioontology.org/metadata/Note"/>
+        </links>
+        <links>
+          <mappings href="https://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F263775005/mappings" rel="http://data.bioontology.org/metadata/Mapping"/>
+        </links>
+        <links>
+          <ui href="http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&amp;conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F263775005" rel="http://www.w3.org/2002/07/owl#Class"/>
+        </links>
+      </linksCollection>
+    </annotatedClass>
+    <hierarchyCollection/>
+    <annotationsCollection>
+      <annotations>
+        <from>430</from>
+        <to>435</to>
+        <matchType>PREF</matchType>
+        <text>HEALTH</text>
+      </annotations>
+    </annotationsCollection>
+    <mappingsCollection/>
+  </annotation>
+</annotationCollection>
